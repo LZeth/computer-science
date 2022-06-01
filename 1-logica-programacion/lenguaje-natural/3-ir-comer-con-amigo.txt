@@ -1,0 +1,39 @@
+Definición del problema
+Quiero ir a comer con un amigo en un restaurante.
+
+Inicio
+1. Selecionar el amigo con el que se quiere comer
+2. Llamar al amigo
+3. Si amigo contesta
+3.1 Preguntar si quiere salir a comer
+3.1.1 Si quiere salir a comer
+3.1.2 Preguntar por horarios o dias disponibles
+3.1.2.1 Revisar si hay dias libres que coincidan
+3.1.2.2 Fijar la fecha
+3.1.2.3 Determinar el tipo de comida y el lugar
+3.1.2.4 Hacer cita en el restaurante 
+3.1.2.4.1 Si hay lugares disponibles
+3.1.2.4.1.1 Fijar la hora
+3.1.2.4.1.2 Fijar el lugar de reunion
+3.1.2.4.1.3 Esperar a que llegue la fecha
+3.1.2.4.1.4 Llamar para confirmar la realizacion de la cita
+3.1.2.4.1.5 Cambiarse y llevar todo lo necesario
+3.1.2.4.1.6 Salir de casa 
+3.1.2.4.1.7 Llegar al lugar de la cita 10 minutos antes
+3.1.2.4.1.8 Encontrar amigo
+3.1.2.4.1.9 Entrar al restaurante
+3.1.2.4.1.10 Buscar al recepcionista
+3.1.2.4.1.11 Dar los detalles de reserva
+3.1.2.4.1.12 Ir a la mesa 
+3.1.2.4.1.13 Sentarse
+3.1.2.4.1.14 Abrir menu
+3.1.2.4.1.15 Seleccionar platillos
+3.1.2.4.1.16 Pedir comida
+3.1.2.4 Si no hay lugares disponibles
+3.1.2.4.1.1 buscar otro restaurante
+3.1.2.4.1.2 volver al punto 3.1.2.4
+3.1.1 Si no quiere salir a comer 
+3.1.1 Volver al punto 1
+3. Si amigo no contesta
+3.1 Enviar un mensaje para pedir contactarse mas tarde. 
+Fin
