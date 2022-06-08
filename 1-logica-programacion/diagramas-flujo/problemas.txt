@@ -1,0 +1,33 @@
+1.acumulación suma
+con base en tener el numero 1 como inicio y recibir un numero para sumarlo
+al inicio y obtener el final, calcular la suma de todos los numeros que se 
+encuentren en medio.
+
+INICIO => 1
+USUARIO INGRESABA => 9
+SUMA es de 1... 10
+1 + 2 + 3... + 10
+
+
+
+
+
+Acumulacion suma
+Calculadora de figuras
+
+pseudocodigo 
+Calculadora de figuras
+Factorial / fibonacci 
+De una serie de numeros decidir cuales son par y cuales numerosi en la serie aparece una letra, ir directo a fin
+Preparar pizza
+
+Retos 
+factorial 
+fibonacci 
+
+Codigo
+Calculadora de matrices 
+
+Prueba de escritorio
+Calculadora de matrices
+Acumulacion suma

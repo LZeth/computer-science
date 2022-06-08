@@ -1,0 +1,14 @@
+inicio
+
+    Escribir "Cuantos numeros quieres" 
+    Leer numeros
+    fibo = 0
+    aux = 1
+    contador = 0
+    si -> contador =! numeros
+        imprimir fibo
+        fibo = fibo + aux
+        
+
+
+fin

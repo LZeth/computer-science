@@ -1,0 +1,21 @@
+INICIO
+solicita tipo figura
+guarda tipo  en var1
+solicita magnitud a calcular
+guarda magnitud en var2
+solicita dimensiones (L,l,a,b...etc)
+
+SI area y cuadrado ENTONCES formula = L * L 
+SI perimetro y cuadrado ENTONCES formula = 4 * L 
+
+SI area y triangulo isoceles ENTONCES formula = b * a / 2
+SI perimetro y triangulo isoceles ENTONCES formula = 2l + b
+
+SI area y rectangulo ENTONCES formula = b * a
+SI perimetro y rectangulo ENTONCES formula = 2b + 2a
+
+guarda resultado de formula
+imprime var1
+imprime var2
+imprime resultado
+FIN
